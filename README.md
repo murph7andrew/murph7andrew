@@ -1,5 +1,5 @@
-### Hi there 👋
-Much of my time as a young adult has been spent in two ways, Gaming, and technology.
+More coming soon....
+
 <!--
 **murph7andrew/murph7andrew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
