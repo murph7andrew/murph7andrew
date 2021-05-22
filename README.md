@@ -1,6 +1,6 @@
 Designing, maintaining, building, and inevitably troubleshooting infrastructure.
 
-Continually learning, tinkering in infrastructure as code, infrastructure automation, and configuration management.
+Continually learning and tinkering in infrastructure as code, infrastructure automation, and configuration management.
 
 
 
